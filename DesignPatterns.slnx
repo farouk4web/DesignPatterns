@@ -1,6 +1,8 @@
 <Solution>
   <Folder Name="/src/" />
-  <Folder Name="/src/Behavioral/" />
+  <Folder Name="/src/Behavioral/">
+    <Project Path="Strategy/Strategy.csproj" Id="1a4df144-55aa-4552-9827-6c9b93029153" />
+  </Folder>
   <Folder Name="/src/Creational/">
     <Project Path="Builder/Builder.csproj" Id="0adddf1b-0006-4a17-a16f-7d6b59740f3f" />
     <Project Path="FactoryMethod/FactoryMethod.csproj" Id="c8e6abdc-6dee-40c5-92c5-049543e56b75" />
