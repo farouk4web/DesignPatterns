@@ -3,6 +3,7 @@
   <Folder Name="/src/Behavioral/" />
   <Folder Name="/src/Creational/">
     <Project Path="Builder/Builder.csproj" Id="0adddf1b-0006-4a17-a16f-7d6b59740f3f" />
+    <Project Path="FactoryMethod/FactoryMethod.csproj" Id="c8e6abdc-6dee-40c5-92c5-049543e56b75" />
     <Project Path="Singleton/Singleton.csproj" />
   </Folder>
   <Folder Name="/src/Structural/" />
